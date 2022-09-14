@@ -1,2 +1,2 @@
 # people-counter
-![img_test](https://user-images.githubusercontent.com/80372920/190094439-ee816bdb-02f1-40dc-90ff-a4b9aa96b8b0.png)
+<img width="605" alt="Screenshot 2022-09-14 at 3 49 32 PM" src="https://user-images.githubusercontent.com/80372920/190094567-d7ecdb2c-8e3f-4b65-9eb8-4b9cf5424428.png">
